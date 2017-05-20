@@ -1,37 +1,33 @@
 .wrap{
 background:red;
 width: 900px;
-height:100%;
+height:500px;
 margin: 10px auto;
 
 }
  
-
 .wrap .header{
 background: blue;
-/*height: 40%;*/
+height:100px;
 padding: 5px 200px;
 }
+
+
 .wrap .menu{
 	background: yellow;
 }
+
 
 .wrap.logo
 {heigt:100%;
  width:100%;
  float:left;
 
-}
- 
-
-
-
-
- 
+} 
 .wrap .menu ul{
 padding: 0;
 margin: 0;
-background: black;
+background: pink;
 overflow: hidden;
 }
  
@@ -41,18 +37,23 @@ list-style-type: none;
 padding: 10px;
 }
 
- 
 .clear{
 clear: both;
 }
  
-
-
 .wrap .badan .sidebar{
-background: orange;
+background:beige;
 float: left;	
 width: 25%;
-height: 75%;
+height: 60%;
+display:block;
+margin-right:none;
+}
+. floting-box{
+   display:inline box;
+   width:25%;
+   height:30%;
+   margin:10px;
 }
 img
  {widht:100%;
@@ -60,14 +61,10 @@ img
   padding:5%;
  }
 
-
- 
-
- 
 .wrap .badan .content{
 background: grey;
 float: left;
-height: 75%;
+height: 60%;
 width: 75%;
 }
  
