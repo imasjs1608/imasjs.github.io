@@ -68,6 +68,12 @@ height: 60%;
 width: 100%;
 }
  
+.gambar{
+	float: left;
+	width: 25%;
+	height: 30%;
+}
+
 .wrap .footer
 {width:100%;
  padding:5%;
