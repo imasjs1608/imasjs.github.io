@@ -27,7 +27,7 @@ padding: 5px 200px;
 .wrap .menu ul{
 padding: 0;
 margin: 0;
-background: pink;
+background: yellow;
 overflow: hidden;
 }
  
@@ -62,7 +62,7 @@ img
  }
 
 .wrap .badan .content{
-background: yellow;
+background:  pink;
 float: left;
 height: 60%;
 width: 100%;
@@ -70,11 +70,20 @@ width: 100%;
  
 .gambar{
 	float: left;
-	width: 25%;
-	height: 30%;
+	width:25%;
+	height:50%;
+	
+	
+}
+.keterangan{
+	float: left;
+}
+.harga{
+	float: left;
 }
 
 .wrap .footer
 {width:100%;
  padding:5%;
 }
+
